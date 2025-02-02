@@ -3,11 +3,16 @@ import project2 from "../assets/projects/project-2.jpg";
 import funny from "../assets/projects/funny2.png";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 1 year of hands-on project experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL and PostgreSQL. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications.
+ With 1 year of hands-on project experience, I have honed my skills in front-end technologies like React and Next.js, 
+ as well as back-end technologies like Node.js, express.js, MySQL and PostgreSQL. My goal is to leverage my 
+ expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = ` I am a passionate problem solver and a dedicated graduate student pursuing a master's degree in Computer Science (expected to graduete in may2025). 
-I am continuously honing my skills to build innovative solutions and strive to learn and adapt to new challenges.
- I thrive in collaborative environments to deliver high-quality solutions. Outside of academics and coding, I enjoy listening to music and spending quality time with my family.`
+export const ABOUT_TEXT = ` I am a passionate problem solver and a dedicated graduate student pursuing a master's
+ degree in Computer Science (expected to graduate in may2025). I am continuously honing my skills to build 
+ innovative solutions and strive to learn and adapt to new challenges.
+ I thrive in collaborative environments to deliver high-quality solutions. 
+ Outside of academics and coding, I enjoy listening to music and spending quality time with my family.`
 
 
 export const EXPERIENCES = [
